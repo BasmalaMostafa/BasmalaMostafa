@@ -19,14 +19,16 @@
 - **Collaboration Tools**: Trello, ClickUp, Jira, ServiceNow  
 
 ---
-<h3 align="left">🛠 Languages & Tools</h3>  
+<h3 align="center">🛠 Languages & Tools</h3>  
 
-  <div align="left">
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://github.com/xiaoming1999/ServiceNow/blob/8d8c802810d15d4ac90e11df7d6bbe38bc738da9/ServiceNow_logo.svg" height="40" alt="SNOW logo" />
   <img width="12" />
 
    
@@ -49,5 +51,5 @@
 
 ## 📫 Connect with Me  
 
-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+- 💼 [LinkedIn](https://www.linkedin.com/in/basmala-mostafa-934702238) 
 - 📧 [Email](mailto:basmala.m7000@gmail.com)  
