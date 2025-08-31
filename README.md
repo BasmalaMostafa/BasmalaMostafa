@@ -21,7 +21,7 @@
 ---
 
   <div align="center">
-  <img src="https://www.pngaaa.com/detail/6367672" height="60" alt="SNOW logo" />
+  <img src="https://github.com/xiaoming1999/ServiceNow/blob/8d8c802810d15d4ac90e11df7d6bbe38bc738da9/ServiceNow_logo.svg" padding-bottom='20' height="60" alt="SNOW logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
