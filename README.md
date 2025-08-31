@@ -22,7 +22,7 @@
 <h3 align="center">🛠 Languages & Tools</h3>  
 
   <div align="center">
-  <img src="[https://github.com/xiaoming1999/ServiceNow/blob/8d8c802810d15d4ac90e11df7d6bbe38bc738da9/ServiceNow_logo.svg](https://www.google.nl/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fservicenow-logo-transparent-png-PNG-free-PNG- Images_182906&psig=AOvVaw1PaR-XivgJyw4s12GEqUV-&ust=1756739417397000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiY_LyqtY8DFQAAAAAdAAAAABAE)" height="40" alt="SNOW logo" />
+  <img src="https://github.com/xiaoming1999/ServiceNow/blob/8d8c802810d15d4ac90e11df7d6bbe38bc738da9/ServiceNow_logo.svg](https://www.google.nl/url?sa=i&url=https%3A%2F%2Ftoppng.com%2Ffree-image%2Fservicenow-logo-transparent-png-PNG-free-PNG- Images_182906&psig=AOvVaw1PaR-XivgJyw4s12GEqUV-&ust=1756739417397000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiY_LyqtY8DFQAAAAAdAAAAABAE)" height="40" alt="SNOW logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
   <img width="12" />
