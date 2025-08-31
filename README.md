@@ -17,11 +17,11 @@
 ![Basmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasmalaMostafa&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/basmala-mostafa-934702238)
+- ![LinkedIn](https://www.linkedin.com/in/basmala-mostafa-934702238)
 - [Email](basmala,m7000@gmail.com)
 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+
 
 
 ###
