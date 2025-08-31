@@ -13,8 +13,6 @@
 - Integration & Automation
 - Data Management & Reporting
 
-## 📈 GitHub Stats
-![Basmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasmalaMostafa&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/basmala-mostafa-934702238)
