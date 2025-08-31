@@ -19,8 +19,6 @@
 - **Collaboration Tools**: Trello, ClickUp, Jira, ServiceNow  
 
 ---
-![ServiceNow](https://img.shields.io/badge/ServiceNow-78A300?style=for-the-badge&logo=servicenow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 <h3 align="left">🛠 Languages & Tools</h3>  
 
   <div align="left">
@@ -34,7 +32,7 @@
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />
@@ -51,5 +49,5 @@
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/basmala-mostafa-934702238)  
+- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 - 📧 [Email](mailto:basmala.m7000@gmail.com)  
