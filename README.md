@@ -29,12 +29,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
-   <img src="https://cdn.simpleicons.org/servicenow/78A300" height="40" alt="servicenow logo" />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/servicenow/78A300" height="40" alt="servicenow logo" />
+
    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="aws logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
   <img width="12" />
